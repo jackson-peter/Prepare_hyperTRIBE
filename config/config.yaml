@@ -1,0 +1,5 @@
+genome_fasta: "TAIR10/Sequence/WholeGenomeFasta/WholeGenomeFastaWithADAR/genome_with_ADAR.fa"
+genome_gtf: "TAIR10/Annotation/Genes/genes_with_ADAR.gtf"
+star_index_dir: "index_STAR_ADAR"
+star_sjdbOverhang: 100
+star_genomeSAindexNbases: 12
