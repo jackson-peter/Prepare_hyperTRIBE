@@ -1,6 +1,4 @@
-snakemake \
-  --use-conda \
-  --conda-frontend mamba \
-  --cores 8 \
-  -p
+set -euo pipefail
+
+snakemake --use-conda --conda-frontend mamba --cores 80 -p
 

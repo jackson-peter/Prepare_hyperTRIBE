@@ -1,5 +1,12 @@
-genome_fasta: "TAIR10/Sequence/WholeGenomeFasta/WholeGenomeFastaWithADAR/genome_with_ADAR.fa"
-genome_gtf: "TAIR10/Annotation/Genes/genes_with_ADAR.gtf"
-star_index_dir: "index_STAR_ADAR"
-star_sjdbOverhang: 100
+star_index_dir: "/maps/projects/renlab/people/qgr178/Shared/Reference/TAIR10/index_STAR_ADAR"
+genome_fasta: "/maps/projects/renlab/people/qgr178/Shared/Reference/TAIR10_ADAR/genome_with_ADAR.fa"
+genome_gtf: "/maps/projects/renlab/people/qgr178/Shared/Reference/Araport11/Araport11_GTF_genes_transposons.20241001.gtf"
+star_sjdbOverhang: 143
 star_genomeSAindexNbases: 12
+align_dir: "/maps/projects/renlab/people/qgr178/Projects/AGO1/Results/01_Mapping"
+fastq_dir: "/maps/projects/renlab/people/qgr178/Projects/AGO1/Data"
+tmp_dir: "/maps/projects/renlab/people/qgr178/Projects/AGO1/Results/TMP"
+sjdb_file: ""  # now empty
+
+# R1 suffix (R2 will be automatically deduced by replacing 1 with 2)
+r1_suffix: "_1P.fq.gz"  
