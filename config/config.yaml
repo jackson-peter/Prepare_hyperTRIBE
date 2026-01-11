@@ -1,6 +1,6 @@
 star_index_dir: "/maps/projects/renlab/people/qgr178/Shared/Reference/TAIR10/index_STAR_ADAR"
-genome_fasta: "/maps/projects/renlab/people/qgr178/Shared/Reference/TAIR10_ADAR/genome_with_ADAR.fa"
-genome_gtf: "/maps/projects/renlab/people/qgr178/Shared/Reference/Araport11/Araport11_GTF_genes_transposons.20241001.gtf"
+genome_fasta: "/maps/projects/renlab/people/qgr178/Shared/Reference/TAIR10_ADAR/genome_Chr_with_ADAR.fa"
+genome_gtf: "/maps/projects/renlab/people/qgr178/Shared/Reference/Araport11/Araport11_GTF_genes_transposons.20241001_with_ADAR.gtf"
 star_sjdbOverhang: 143
 star_genomeSAindexNbases: 12
 align_dir: "/maps/projects/renlab/people/qgr178/Projects/AGO1/Results/01_Mapping"
