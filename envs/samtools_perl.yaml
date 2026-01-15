@@ -1,0 +1,8 @@
+name: samtools_perl
+channels:
+    - conda-forge
+    - bioconda
+    - defaults
+dependencies:
+    - samtools>=1.14
+    - perl
