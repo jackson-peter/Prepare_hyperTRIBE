@@ -68,8 +68,8 @@ snakemake --use-conda --conda-frontend mamba -p --cores <N>
 
 ## Outputs:
 
-    * STAR alignments and indices: results/alignment/star/.
+   * STAR alignments and indices: results/alignment/star/.
 
-    * Salmon quantification: results/quantification/salmon/.
+   * Salmon quantification: results/quantification/salmon/.
 
-    * Mpileup-derived per-region text files and a completion flag: results/variant/mpileup/, ready to be reshaped and imported into hyperTRIBER for differential editing analysis.
+   * Mpileup-derived per-region text files and a completion flag: results/variant/mpileup/, ready to be reshaped and imported into hyperTRIBER for differential editing analysis.
